@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"Expand Selection to Quotes",
+		"JavaScript Completions",
+		"Package Control",
+		"PHPIntel",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes",
+		"Unicode Character Highlighter",
+		"WhoCalled Function Finder"
+	]
+}
