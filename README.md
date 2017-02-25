@@ -33,6 +33,7 @@ Pour remplacer une touche par une autre. Je l'utilise pour ajouter les touches >
 ```xmodmap -pke > ~/.Xmodmap```
 #### On trouve la clef a remap
 ```xev | awk -F'[ )]+' '/^KeyPress/ { a[NR+2] } NR in a { printf "%-3s %s\n", $5, $8 }'```
+
 ```keycode  49 = greater less dollar numbersign leftdoublequotemark rightdoublequotemark endash paragraph```
 
 #### On modifie le fichier Xmodmap et on teste avec
